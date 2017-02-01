@@ -1,5 +1,9 @@
 # CSVKit
 
+## CSVSQL
+
+**Description:** Generate SQL statements for a CSV file or execute those statements directly on a database.
+
 ### Creating a Table DDL
 
 ```shell
