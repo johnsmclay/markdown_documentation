@@ -4,6 +4,8 @@
 
 **Description:** Generate SQL statements for a CSV file or execute those statements directly on a database.
 
+**Documentation:** [ReadTheDocs](http://csvkit.readthedocs.io/en/0.9.1/scripts/csvsql.html)
+
 ### Creating a Table DDL
 
 ```shell
